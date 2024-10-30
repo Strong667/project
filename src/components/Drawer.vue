@@ -7,7 +7,7 @@
       <div>
         <span> Итого: </span>
         <div></div>
-        <b>12990 ₽</b>
+        <b>12995 ₽</b>
       </div>
     </div>
   </div>
